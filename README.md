@@ -39,6 +39,15 @@ All experiments have been run on cloab. Storing the experiments and results here
  Got to 88%. 
  Have to drive up the Language model. 
 
+
+7) Roberta_HugginFace_FastAI.
+Added POC for HugginFace with fastai. Notebook comprises of Roberta. 
+Doesn't work directly for BERT. 
+Just a POC. Needs to be explored further. 
+Tutorial: https://towardsdatascience.com/fastai-with-transformers-bert-roberta-xlnet-xlm-distilbert-4f41ee18ecb2
+Got it from Jeremy's twitter. 
+
+
 I belive rest have self-explainatory names. 
 
 
